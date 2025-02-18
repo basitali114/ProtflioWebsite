@@ -1,0 +1,100 @@
+/* Services page*/
+.ser h1{
+    text-align: center;
+    padding-top: 50px;
+}
+.ser{
+    color: white;
+    background-color: black;
+    margin-top: -50px;
+    padding-left: 50px;
+    height: 800px;
+ 
+}
+.ser p{
+
+    font-size: medium;
+}
+/*Our services staff pic*/
+.ser h2{
+    text-align: center;
+
+}
+.png1{
+float: left;
+padding: 50px;
+}
+.png2{
+float:left;
+padding: 50px;
+
+}
+.png3{
+float: left;
+padding: 50px;
+
+}
+
+/*Contact page*/
+.foot{
+    height: 700px;
+    width: 100%;
+   background-color: black;
+   color: white;
+   padding-top: 30px;
+}
+.location{
+    padding-left: 50px;
+    float: left;
+    height: 300px;
+    width: 200px;
+    text-align: center;
+    
+}
+.help{
+    float: left;
+    padding-left: 130px;
+    height: 300px;
+    width: 200px;
+    text-align: center;
+
+}
+.helpline{
+    float: left;
+    padding-left: 50px;
+    height: 300px;
+    width: 200px;
+    text-align: center;
+
+
+}
+
+.helpline i{
+    font-size: 50px;
+}
+.from{
+    float: left;
+    padding-left: 50px;
+    height: 300px;
+    width: 200px;
+    text-align: center;
+}
+.last{
+    position: relative;
+    margin-top: 450px;
+    padding-left: 10px;
+   
+}
+.policy{
+    float: right;
+    margin-right: 100px;
+    margin-top: -50px;
+}
+.icon{
+    text-align: center;
+}
+.icon i{
+    letter-spacing: 50px;
+    font-size: 30px;
+   
+}

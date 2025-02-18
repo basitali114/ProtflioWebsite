@@ -1,0 +1,255 @@
+:root{
+    --black:  rgba(214, 149, 10, 0.897);
+}
+
+
+/*logo Css*/
+.main{
+    width: 100%;
+position: sticky;
+top: 0px;
+height: 100px;    
+}
+.brand{                       
+    background-color:orange;
+    height: 150px;
+   
+}
+/*Navagition Css */
+.nav ul{
+    list-style: none ;
+    margin-left: 990px;
+    margin-top: -100px;
+}
+.nav ul li{
+    display: inline;
+}
+.nav ul li a{
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+    font-size: large;
+    
+}
+/* Hover navagition*/
+.nav a:hover{
+    background-color: rgb(255, 208, 0);
+}
+/*About Page*/
+.about{
+    text-align: left;
+    padding-top: 50px;
+    margin-top: 20px;
+    height: 500px;
+padding-left: 20px;
+    color:black;
+    background-image: url(image/i\ \(7\).webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+p{
+    font-size: 15px;
+}
+.about h1{
+    color: white;
+}
+/* Adding pic for about*/
+.pic{
+ background-image: url(image/i\ \(4\).webp);
+ background-position: center;
+ background-attachment: scroll;
+ background-size: cover;
+ background-repeat: no-repeat;
+ height: 500px;
+ margin-top: -50px;
+ padding-top: 30px;
+}
+.img1{
+    padding-top: 30px;
+    height: 200px;
+    width: 30%;
+    margin-left: 50px;
+color:black;
+float: left;
+text-align: center;
+
+}
+.img2{
+    color:black;
+    float: left;
+    height: 200px;
+padding-top: 30px;
+width: 30%;
+text-align: center;
+
+    
+}
+.img3{
+    color:black;
+    float: left;
+    height: 200px;
+    padding-top: 30px;
+    width: 30%;
+text-align: center;
+    
+}
+/* Services page*/
+.ser h1{
+    text-align: center;
+    padding-top: 50px;
+}
+.ser{
+    color: white;
+    background-color: black;
+    margin-top: -50px;
+    padding-left: 50px;
+    height: 800px;
+ 
+}
+.ser p{
+
+    font-size: medium;
+}
+/*Our services staff pic*/
+.ser h2{
+    text-align: center;
+
+}
+.png1{
+float: left;
+padding: 50px;
+}
+.png2{
+float:left;
+padding: 50px;
+
+}
+.png3{
+float: left;
+padding: 50px;
+
+}
+/*Menu page*/
+.Menu{
+    height: 1050px;
+    width: 100%;
+}
+.menu1{
+    height: 400px;
+    width: 25%;
+float: left;
+padding: 50px;
+
+
+}
+.menu2{
+    height: 400px;
+    width: 25%;
+    float: left;
+padding: 50px;
+
+}
+.menu3{
+    height: 400px;
+    width: 25%;
+    float: left;
+padding: 50px;
+
+}
+.menu4{
+    height: 400px;
+    width: 25%;
+    float: left;
+padding: 50px;
+
+}
+.menu5{
+    height: 400px;
+    width: 25%;
+    float: left;
+padding: 50px;
+
+}
+.menu6{
+    height: 400px;
+    width: 25%;
+    float: left;
+padding: 50px;
+
+}
+.Menu  button{
+ background-color:rgba(214, 149, 10, 0.897);
+    width: 80%;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.Menu button:hover{
+    background-color: orangered;
+    opacity: 0.8;
+}
+/*Contact page*/
+.foot{
+    height: 700px;
+    width: 100%;
+   background-color: black;
+   color: white;
+   padding-top: 30px;
+}
+.location{
+    padding-left: 50px;
+    float: left;
+    height: 300px;
+    width: 200px;
+    text-align: center;
+    
+}
+.help{
+    float: left;
+    padding-left: 130px;
+    height: 300px;
+    width: 200px;
+    text-align: center;
+
+}
+.helpline{
+    float: left;
+    padding-left: 50px;
+    height: 300px;
+    width: 200px;
+    text-align: center;
+
+
+}
+
+.helpline i{
+    font-size: 50px;
+}
+.from{
+    float: left;
+    padding-left: 50px;
+    height: 300px;
+    width: 200px;
+    text-align: center;
+}
+.last{
+    position: relative;
+    margin-top: 450px;
+    padding-left: 10px;
+   
+}
+.policy{
+    float: right;
+    margin-right: 100px;
+    margin-top: -50px;
+}
+.icon{
+    text-align: center;
+}
+.icon i{
+    letter-spacing: 50px;
+    font-size: 30px;
+   
+}

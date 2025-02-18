@@ -1,0 +1,122 @@
+/*Menu page*/
+.Menu{
+    height: 1050px;
+    width: 100%;
+}
+.menu1{
+    height: 400px;
+    width: 25%;
+float: left;
+padding: 50px;
+
+
+}
+.menu2{
+    height: 400px;
+    width: 25%;
+    float: left;
+padding: 50px;
+
+}
+.menu3{
+    height: 400px;
+    width: 25%;
+    float: left;
+padding: 50px;
+
+}
+.menu4{
+    height: 400px;
+    width: 25%;
+    float: left;
+padding: 50px;
+
+}
+.menu5{
+    height: 400px;
+    width: 25%;
+    float: left;
+padding: 50px;
+
+}
+.menu6{
+    height: 400px;
+    width: 25%;
+    float: left;
+padding: 50px;
+
+}
+.Menu  button{
+ background-color:rgba(214, 149, 10, 0.897);
+    width: 80%;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.Menu button:hover{
+    background-color: orangered;
+    opacity: 0.8;
+}
+/*Contact page*/
+.foot{
+    height: 700px;
+    width: 100%;
+   background-color: black;
+   color: white;
+   padding-top: 30px;
+}
+.location{
+    padding-left: 50px;
+    float: left;
+    height: 300px;
+    width: 200px;
+    text-align: center;
+    
+}
+.help{
+    float: left;
+    padding-left: 130px;
+    height: 300px;
+    width: 200px;
+    text-align: center;
+
+}
+.helpline{
+    float: left;
+    padding-left: 50px;
+    height: 300px;
+    width: 200px;
+    text-align: center;
+
+
+}
+
+.helpline i{
+    font-size: 50px;
+}
+.from{
+    float: left;
+    padding-left: 50px;
+    height: 300px;
+    width: 200px;
+    text-align: center;
+}
+.last{
+    position: relative;
+    margin-top: 450px;
+    padding-left: 10px;
+   
+}
+.policy{
+    float: right;
+    margin-right: 100px;
+    margin-top: -50px;
+}
+.icon{
+    text-align: center;
+}
+.icon i{
+    letter-spacing: 50px;
+    font-size: 30px;
+   
+}
